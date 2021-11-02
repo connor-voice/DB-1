@@ -1,0 +1,2 @@
+SELECT DISTINCT Language FROM country co JOIN countrylanguage cl WHERE co.Region='Southeast Asia';
+#Too many to list, but run the command, it works :D

@@ -1,0 +1,2 @@
+SELECT Population, LifeExpectancy FROM country WHERE Name='Argentina';
+#Population '37032000' / Life Expectancy '75.1'

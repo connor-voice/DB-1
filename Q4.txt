@@ -1,0 +1,2 @@
+SELECT * FROM city c2 JOIN country c1 ON c1.capital=c2.ID WHERE c1.Name='Spain';
+#Madrid

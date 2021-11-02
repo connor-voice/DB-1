@@ -1,0 +1,2 @@
+SELECT LifeExpectancy, Name FROM country WHERE LifeExpectancy IS NOT NULL ORDER BY LifeExpectancy DESC LIMIT 5;
+#Andorra 83.5

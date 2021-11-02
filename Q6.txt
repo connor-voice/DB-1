@@ -1,0 +1,2 @@
+SELECT * FROM city WHERE Name LIKE 'F%' LIMIT 25;
+#Too many to list, but run the command, it works :D
